@@ -3,8 +3,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abu-bakarr" alt="abu-bakarr" /></a> </p>
 
-<img align="right" width="40" src="https://www.google.com/search?q=clipart%20of%20software%20developer&tbm=isch&tbs=isz:l&hl=en&sa=X&ved=0CAIQpwVqFwoTCNiFnrqGjfsCFQAAAAAdAAAAABAD&biw=1440&bih=789#imgrc=ucGnBZICOkm3jM&imgdii=jqVuGObGWgVdfM" >
-
 - 🔭 I’m currently working on [Prestrack](https://prestrack-staging.dsti.gov.sl/)
 
 - 🌱 I’m currently learning **Django, Go**
