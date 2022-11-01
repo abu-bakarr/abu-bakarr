@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Abubakarr Bangura</h1>
-<h3 align="center">My name is Abubakarr Bangura, i am a Passionate Software developer, graduated from the Limkokwing University of Creative Technology, Sierra Leone. with degree of Bachelor of Science (Honours) in Software Engineering with Multimedia</h3>
+<h1 align="center">Hi 👋, I'm Abubakarr Bangura aka Lovel</h1>
+<h5 align="center">A Passionate Software developer, graduated from the Limkokwing University of Creative Technology, Sierra Leone. with degree of Bachelor of Science (Honours) in Software Engineering with Multimedia</h5>
 
 
 - 🔭 I’m currently working on [Prestrack](https://prestrack-staging.dsti.gov.sl/)
