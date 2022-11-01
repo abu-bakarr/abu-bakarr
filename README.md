@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abubakarr Bangura</h1>
 <h3 align="center">My name is Abubakarr Bangura, i am a Passionate Software developer, graduated from the Limkokwing University of Creative Technology, Sierra Leone. with degree of Bachelor of Science (Honours) in Software Engineering with Multimedia</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abu-bakarr" alt="abu-bakarr" /></a> </p>
 
 - 🔭 I’m currently working on [Prestrack](https://prestrack-staging.dsti.gov.sl/)
 
