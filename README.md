@@ -1,5 +1,5 @@
 <h2 align="center">Hi 👋, I'm Abubakarr Bangura</h2>
-<h4 align="center">A Passionate Software developer, graduated from Limkokwing University of Creative Technology, Sierra Leone. with degree of Bachelor of Science (Honours) in Software Engineering with Multimedia</h4>
+<h4 align="center">A passionate software developer who graduated from Limkokwing University of Creative Technology in Sierra Leone. has a Bachelor of Science (Honours) degree in Software Engineering with Multimedia</h4>
 
 - 🔭 I’m currently working on [Prestrack](https://prestrack-staging.dsti.gov.sl/)
 
