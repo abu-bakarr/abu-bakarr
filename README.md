@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **abangura9@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1a6mm4Qi8ukEFNq1JVzX21fxKAX9zz3aS/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1uUgNkPNiHXQb43WSQa2dAVSMsulLBFdt/view?usp=sharing)
 
 - ⚡ Fun fact **My favourite football clubs are (Barcelona and Manchester City)**
 
