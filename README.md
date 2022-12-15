@@ -11,6 +11,8 @@
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1uUgNkPNiHXQb43WSQa2dAVSMsulLBFdt/view?usp=sharing)
 
+- [ALX Software Engineer Alumni 2022](https://www.alxafrica.com/)
+
 - ⚡ Fun fact **My favourite football clubs are (Barcelona and Manchester City)**
 
 <h3 align="left">Connect with me:</h3>
