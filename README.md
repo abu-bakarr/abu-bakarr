@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **abangura9@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1uUgNkPNiHXQb43WSQa2dAVSMsulLBFdt/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1ezjpNd-8b5rOH3GEmft46Ltuw-tsLbQ5/view?usp=share_link)
 
 - [ALX Software Engineer Alumni 2022](https://www.alxafrica.com/)
 
