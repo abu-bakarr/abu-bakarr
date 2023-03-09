@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Prestrack](https://prestrack-staging.dsti.gov.sl/)
 
-- 🌱 I’m currently learning **Django, Go**
+- 🌱 I’m currently learning **Django, Kotlin**
 
 - 💬 Knowledge in **React,Typescript, NodeJS and express JS**
 
