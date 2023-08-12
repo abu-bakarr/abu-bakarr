@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning ** Kotlin**
 
-- 💬 Knowledge in **React,Typescript, NodeJS and express JS**
+- 💬 Knowledge in **React, Vue, Typescript, NodeJS and express JS**
 
 - 📫 How to reach me **abangura9@gmail.com**
 
