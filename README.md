@@ -73,4 +73,4 @@
 
 ## Personal Note
 
-- Barcelona and Manchester City supporter
+- Barcelona and Manchester City fan aka (Cityzen of the Catalan)
